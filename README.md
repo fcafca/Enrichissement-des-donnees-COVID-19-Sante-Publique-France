@@ -7,7 +7,7 @@ Second objectif, alimenter une dataviz via le projet Apache-superset : https://g
 Plus d'informations sur mon site : https://www.fcafcadata.net/
 
 Données actualisées le 08/04/2020  
-« Données hospitalières relatives à l'épidémie de COVID-19 » 07/04/2020 
+« Données hospitalières relatives à l'épidémie de COVID-19 » 07/04/2020   
 « Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19 » 06/04/2020
 
 Pour simplifier l'actualisation, j'ai tout réuni dans un .zip : (métadonnés et data : .csv .ods .xls)
