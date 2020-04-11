@@ -7,10 +7,10 @@ Second objectif, alimenter une dataviz via le projet Apache-superset : https://g
 Plus d'informations sur mon site : https://www.fcafcadata.net/
 
 Données actualisées le 11/04/2020  
-« Données hospitalières relatives à l'épidémie de COVID-19 » 10/04/2020 
+« Données hospitalières relatives à l'épidémie de COVID-19 » 10/04/2020  
 « Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19 » 09/04/2020
 
 Pour simplifier l'actualisation, j'ai tout réuni dans un .zip : (métadonnés et data : .csv .ods .xls)
 *Reutilisation_donnees_Covid-19_Sante_Publique_France_11_avril_2020_V1.zip*
 
-"C'est dans l'angoisse que l'homme prend conscience de sa liberté." (Jean-Paul Sartre)
+"*C'est dans l'angoisse que l'homme prend conscience de sa liberté.*" (Jean-Paul Sartre)
