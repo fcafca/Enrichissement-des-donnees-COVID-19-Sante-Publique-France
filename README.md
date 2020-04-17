@@ -6,9 +6,11 @@ Second objectif, alimenter une dataviz via le projet Apache-superset : https://g
 
 Plus d'informations sur mon site : https://www.fcafcadata.net/
 
-Données actualisées le 16/04/2020  
+**Données actualisées le 17/04/2020  
 « Données hospitalières relatives à l'épidémie de COVID-19 » 16/04/2020  
-« Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19 » 14/04/2020
+« Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19 » 14/04/2020**
+
+**La seconde source n'a pas été actualisée par Santé Publique France.**
 
 Pour simplifier l'actualisation, j'ai tout réuni dans un .zip : (métadonnés et data : .csv .ods .xls)
 *Reutilisation_donnees_Covid-19_Sante_Publique_France_11_avril_2020_V1.zip*
