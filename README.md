@@ -2,8 +2,7 @@
 
 ***Nouvelle version !!!***
 
-**Données actualisées le 14/05/2020  pour les trois jeux de données**
-sauf Données hospitalières relatives à l’épidémie de COVID-19 non publiée
+**Données actualisées le 16/05/2020  pour les trois jeux de données**
 
 **site de téléchargement et d'information** : [https://www.fcafcadata.net/](https://www.fcafcadata.net/)
 
