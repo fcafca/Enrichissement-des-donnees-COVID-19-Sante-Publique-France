@@ -1,8 +1,8 @@
 # Enrichissement-des-donnees-COVID-19-Sante-Publique-France
 
-***Nouvelle version !!!***
+***Nouvelle version !!!  Ajout d'analyses relatives au déconfinement***
 
-**Données actualisées le 24/05/2020  pour les trois jeux de données**
+**Données actualisées le 25/05/2020  pour les trois jeux de données**
 
 **site de téléchargement et d'information** : [https://www.fcafcadata.net/](https://www.fcafcadata.net/)
 
