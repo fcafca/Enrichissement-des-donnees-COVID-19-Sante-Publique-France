@@ -2,7 +2,7 @@
 
 ***Nouvelle version !!!  Ajout d'analyses relatives au déconfinement***
 
-**Données actualisées le 26/05/2020  pour les trois jeux de données**
+**Données actualisées le 27/05/2020  pour les trois jeux de données**
 
 **site de téléchargement et d'information** : [https://www.fcafcadata.net/](https://www.fcafcadata.net/)
 
