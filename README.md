@@ -25,7 +25,7 @@ J’ai démarré la réalisation d’une série de tableaux de bord, avec l’ou
 Malheureusement, pour l’instant, je ne dispose pas d’une instance dimensionnée pour proposer un accès public à Superset.
 Dans l’attente, je publie des copies d’écran. Trois thèmes sont abordés, dont l'évaluation du déconfinement :
 
-Thème 1 : Evaluation du déconfinement (nouvelle version)
+Thème 1 : Evaluation du déconfinement (nouvelle version)  
 J’ai revu ma copie. Pour calculer le % d’évolution, je comparais la donnée du jour, avec celle publiée le premier jour du déconfinement.
 J’ai découvert dans la dernière version d’Apache Superset qu’un certain nombre de courbes précalculée était disponibles, dont « mean », la moyenne glissante ou mobile.
 Pour proposer une vision plus réaliste de l’évolution, c’est ce modèle de courbe qui est utilisé pour afficher la série de valeur.
