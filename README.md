@@ -8,7 +8,7 @@
 
 **Données relatives aux résultats des tests virologiques COVID-19 (SI-DEP)** *(production récente)*
 
-Données actualisées le **06/06/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
+Données actualisées le **07/06/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
 
 Mon objectif est de faciliter la prise en main des data par des profils de type statisticiens ou data scientist.
 Il semble concevable que l’on puisse ajouter de nouvelles visualisations, des nouveaux indicateurs, en complément à ceux qui étaient présentés chaque soir par le Pr Salomon.
@@ -33,6 +33,8 @@ J’ai remplacé la valeur du 11/05 par la moyenne des 10 jours précédents.
 
 **Depuis le 28/05, le Val d’Oise apparaît en rouge dans le dashboard de l’Île-de-France. 
 C’est aussi le cas de plusieurs départements, situés dans d’autres régions. A surveiller d’ici la fin de la phase 2. 
-04/06 : La région Bretagne passe en « rouge » suite aux mauvais chiffres du Morbihan : +138.7%**
+04/06 : La région Bretagne passe en « rouge » suite aux mauvais chiffres du Morbihan : +138.7%
+07/06 : Le Val d’Oise est toujours en rouge, idem pour le Morbihan. Je suis en cours de finalisation du traitement des données de test « SI-DEP »
+Le Val d’Oise affiche un taux de test positifs qui représente environ le double des autres départements de l’Île-de France. Inquiétant.**
 
 "*C'est dans l'angoisse que l'homme prend conscience de sa liberté.*" (Jean-Paul Sartre)
