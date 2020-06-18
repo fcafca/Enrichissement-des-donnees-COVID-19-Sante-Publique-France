@@ -8,7 +8,7 @@
 
 **Données relatives aux résultats des tests virologiques COVID-19 (SI-DEP)** *(production récente)*
 
-Données actualisées le **17/06/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
+Données actualisées le **18/06/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
 
 Mon objectif est de faciliter la prise en main des data par des profils de type statisticiens ou data scientist.
 Il semble concevable que l’on puisse ajouter de nouvelles visualisations, des nouveaux indicateurs, en complément à ceux qui étaient présentés chaque soir par le Pr Salomon.
