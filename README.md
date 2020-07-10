@@ -1,6 +1,4 @@
-# Enrichissement-des-donnees-COVID-19-Sante-Publique-France
-
-***Nouvelle version : Ajout d'analyses relatives au déconfinement et ajout d'une nouvelle source SPF*** 
+***Nouvelle version !!! (09/07) : Ajout d'analyses relatives au déconfinement depuis le 1er Juin***  
 
 **Données hospitalières relatives à l'épidémie de COVID-19**
 **Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19**
@@ -8,7 +6,7 @@
 
 **Données relatives aux résultats des tests virologiques COVID-19 (SI-DEP)** *(production récente)*
 
-Données actualisées le **19/06/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
+Données actualisées le **09/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
 
 Mon objectif est de faciliter la prise en main des data par des profils de type statisticiens ou data scientist.
 Il semble concevable que l’on puisse ajouter de nouvelles visualisations, des nouveaux indicateurs, en complément à ceux qui étaient présentés chaque soir par le Pr Salomon.
@@ -25,19 +23,24 @@ J’ai démarré la réalisation d’une **série de tableaux de bord**, avec l�
 Malheureusement, pour l’instant, je ne dispose pas d’une instance dimensionnée pour proposer un accès public à Superset.
 Dans l’attente, je publie ces copies d’écran. Trois thèmes sont abordés, dont l'évaluation du déconfinement :
 
-**Thème 1 : Evaluation du déconfinement (nouvelle version)**
-J’ai revu ma copie. Pour calculer le % d’évolution, je comparais la donnée du jour, avec celle publiée le premier jour du déconfinement.
-J’ai découvert dans la dernière version d’Apache Superset qu’un certain nombre de courbes précalculée était disponibles, dont « mean », la moyenne glissante ou mobile.
-Pour proposer une vision plus réaliste de l’évolution, c’est ce modèle de courbe qui est utilisé pour afficher la série de valeur.
-J’ai remplacé la valeur du 11/05 par la moyenne des 10 jours précédents.
+**Thème 1 : Evaluation du déconfinement depuis le 1er juin (nouvelle version) **
 
-**Depuis le 28/05, le Val d’Oise apparaît en rouge dans le dashboard de l’Île-de-France.
-C’est aussi le cas de plusieurs départements, situés dans d’autres régions. A surveiller d’ici la fin de la phase 2.
-04/06 : La région Bretagne passe en « rouge » suite aux mauvais chiffres du Morbihan : +138.7%
-07/06 : Le Val d’Oise est toujours en rouge, idem pour le Morbihan. Je suis en cours de finalisation du traitement des données de test « SI-DEP »
-Le Val d’Oise affiche un taux de test positifs qui représente environ le double des autres départements de l’Île-de France. Inquiétant.**
+Pour résumer la situation en ce début du mois de Juillet, mis à part en Guyane et à Mayotte, l’épidémie est annoncée globalement maîtrisée.
+En revanche, le virus est toujours là. La situation est mesurée par Santé Publique France au travers d’un point hebdomadaire publié en fin de semaine.
+Le point central d’attention tourne autour des fameux « clusters », et notre capacité à les traiter au fur et à mesure de leurs apparitions.
+Le PDF de l’analyse nationale est pour le moins consistant. 31 pages de graphiques accompagnés de commentaires, pour certains assez « obscurs ».
 
+Exemple, le fameux indicateur "R" qui mesure la diffusion potentielle du virus. On nous rebat les oreilles qu'il doit absolument être inférieur à 1.
 
-**12/06 : La région Bretagne repasse en vert, bien que le Morbihan soit toujours affiché en rouge. Le temps passant, la valeur de la région est devenue négative (-2.5%) en moyenne glissante.**
+"Aucune région métropolitaine ne présente un R significativement supérieur à 1.
+Les régions Auvergne-Rhône-Alpes (1,10; IC95% : 0,97-1,25), Bretagne (1,22; IC95% : 0,82-1,69), Normandie (1,01; IC95% : 0,84-1,20) et La Réunion (1,23; IC95% : 0,68-1,95) ont des estimations légèrement supérieures à 1 mais non significativement supérieures (valeur « 1 » comprise dans l’intervalle de confiance)"
+
+De plus, Certaines données ne sont pas publiques, notamment celles qui concernent le détail et la localisation des clusters.
+Néanmoins, pour celles qui sont accessibles et issues des trois sources disponibles citées en début de page, je vais tenter de reprendre certains de leurs graphiques, en plus « détaillé ».
+
+Ce dashboard, pour l’instant circonscrit à la région Île-de-France, est un premier jet, une sorte de brouillon que je compte bien améliorer dans les jours à venir.
+
+**09/07 : J’ai ajouté un dashboard spécifique au département de la Mayenne, ou six clusters actifs sont comptabilisés. La semaine prochaine, l’ARS locale a décidé de tester une partie de la population, soit 300 000 habitants.
+Les courbes seront à surveiller. Notamment celles relatives aux passages / hospitalisations qui affichent une augmentation, mais avec des chiffres qui restent globalement assez bas.**
 
 "*C'est dans l'angoisse que l'homme prend conscience de sa liberté.*" (Jean-Paul Sartre)
