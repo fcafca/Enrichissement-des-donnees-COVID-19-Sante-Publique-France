@@ -1,6 +1,6 @@
 ***Nouvelle version !!! (09/07) : Ajout d'analyses relatives au déconfinement depuis le 1er Juin*** 
 
-Données actualisées le **10/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
+Données actualisées le **14/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
 
 **site de téléchargement et d'information** : [https://www.fcafcadata.net/](https://www.fcafcadata.net/)
 
