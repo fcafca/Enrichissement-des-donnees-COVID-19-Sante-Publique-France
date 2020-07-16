@@ -1,6 +1,6 @@
 ***Nouvelle version !!! (09/07) : Ajout d'analyses relatives au déconfinement depuis le 1er Juin*** 
 
-Données actualisées le **14/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
+Données actualisées le **15/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
 
 **site de téléchargement et d'information** : [https://www.fcafcadata.net/](https://www.fcafcadata.net/)
 
@@ -23,7 +23,6 @@ Malheureusement, pour l’instant, je ne dispose pas d’une instance dimensionn
 Dans l’attente, je publie ces copies d’écran. Trois thèmes sont abordés, dont l'évaluation du déconfinement :
 
 **Thème 1 : Evaluation du déconfinement depuis le 1er juin (nouvelle version)**
-
 
 Pour résumer la situation en ce début du mois de Juillet, mis à part en Guyane et à Mayotte, l’épidémie est annoncée comme globalement maîtrisée.
 En revanche, le virus est toujours là. La situation est mesurée par Santé Publique France au travers d’un point hebdomadaire publié en fin de semaine.
