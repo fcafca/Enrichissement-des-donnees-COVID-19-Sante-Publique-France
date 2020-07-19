@@ -1,6 +1,6 @@
 ***Nouvelle version !!! (09/07) : Ajout d'analyses relatives au déconfinement depuis le 1er Juin*** 
 
-Données actualisées le **16/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
+Données actualisées le **19/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
 
 **site de téléchargement et d'information** : [https://www.fcafcadata.net/](https://www.fcafcadata.net/)
 
@@ -29,7 +29,7 @@ En revanche, le virus est toujours là. La situation est mesurée par Santé Pub
 Le point central d’attention tourne autour des fameux « clusters », et notre capacité à les traiter au fur et à mesure de leurs apparitions.
 Le PDF de l’analyse nationale est pour le moins consistant. 31 pages de graphiques accompagnés de commentaires, pour certains assez « obscurs ».
 
-https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-9-juillet-2020
+https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-17-juillet-2020
 
 Certaines données ne sont pas publiques, notamment celles qui concernent le détail et la localisation des clusters.
 Pour celles qui sont accessibles et issues des trois sources disponibles citées en début de page, j’ai pour objectif de reprendre certains de leurs graphiques, en plus « détaillé ».
