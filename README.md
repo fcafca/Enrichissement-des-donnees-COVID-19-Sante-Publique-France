@@ -1,6 +1,6 @@
 ***Nouvelle version !!! (09/07) : Ajout d'analyses relatives au déconfinement depuis le 1er Juin*** 
 
-Données actualisées le **29/07/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
+Données actualisées le **25/08/2020**  pour les quatre jeux de données *(sauf pour données relatives aux tests de dépistage)*
 
 **site de téléchargement et d'information** : [https://www.fcafcadata.net/](https://www.fcafcadata.net/)
 
@@ -24,16 +24,22 @@ Dans l’attente, je publie ces copies d’écran. Trois thèmes sont abordés, 
 
 **Thème 1 : Evaluation du déconfinement depuis le 1er juin (nouvelle version)**
 
-Pour résumer la situation en ce début du mois de Juillet, mis à part en Guyane et à Mayotte, l’épidémie est annoncée comme globalement maîtrisée.
+**05/07** Pour résumer la situation en ce début du mois de Juillet, mis à part en Guyane et à Mayotte, l’épidémie est annoncée comme globalement maîtrisée.
 En revanche, le virus est toujours là. La situation est mesurée par Santé Publique France au travers d’un point hebdomadaire publié en fin de semaine.
 Le point central d’attention tourne autour des fameux « clusters », et notre capacité à les traiter au fur et à mesure de leurs apparitions.
 Le PDF de l’analyse nationale est pour le moins consistant. 31 pages de graphiques accompagnés de commentaires, pour certains assez « obscurs ».
 
-https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-23-juillet-2020
+https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-30-juillet-2020
 
 Certaines données ne sont pas publiques, notamment celles qui concernent le détail et la localisation des clusters.
 Pour celles qui sont accessibles et issues des trois sources disponibles citées en début de page, j’ai pour objectif de reprendre certains de leurs graphiques, en plus « détaillé ».
 
 Le dashboard réalisé est un premier jet, une sorte de brouillon que je compte bien améliorer dans les jours à venir.
+
+**02/08** : Les patients en réanimation sont remplacés par **le Taux d’incidence hebdomadaire**. Les périodes sont identiques à celles affichées dans le point hebdo de Santé Publique France
+
+« **Le taux d'incidence correspond au nombre de personnes infectées sur une semaine, dans une population de 100 000 habitants**. 
+Deux seuils ont été fixés par le ministère de la Santé : **le seuil de vigilance** est atteint si plus de **dix personnes** sont infectées pour 100 000 habitants. Le **seuil d'alerte** se trouve à **50 personnes infectées**. "Il complète le taux de fréquence d'une maladie, qui est le nombre de cas global au sein de la population, précise Emmanuel Rusch, président de la Société française de santé publique, à France info. » 
+(France Info)
 
 "*C'est dans l'angoisse que l'homme prend conscience de sa liberté.*" (Jean-Paul Sartre)
